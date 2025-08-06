@@ -1,0 +1,15 @@
+langchain-community
+langchain_google_genai
+langchain 
+langgraph
+wikipedia
+youtube_search
+langchain_huggingface
+sentence-transformers
+chromadb
+langchain-openai
+langchain_groq
+duckduckgo-search
+yfinance
+langchain_experimental
+matplotlib

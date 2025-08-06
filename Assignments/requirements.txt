@@ -1,0 +1,14 @@
+langchain
+langchain-openai
+dotenv
+langchain_community
+pymupdf
+langchain_experimental
+langchain_astradb
+astrapy
+langchain_google_genai
+langchain_huggingface
+sentence-transformers
+langgraph
+faiss-cpu
+duckduckgo-search

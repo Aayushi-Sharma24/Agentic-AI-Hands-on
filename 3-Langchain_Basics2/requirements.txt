@@ -1,0 +1,12 @@
+pydantic
+python-dotenv
+langchain
+langchain-openai
+langchain-groq
+langchain-core
+langchain-community
+pypdf
+bs4
+arxiv
+pymupdf
+wikipedia

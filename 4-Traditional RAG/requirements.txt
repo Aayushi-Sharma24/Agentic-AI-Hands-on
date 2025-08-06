@@ -1,0 +1,11 @@
+langchain
+ipykernel
+langchain-openai
+langchain-community
+faiss-cpu
+langchain_google_genai
+pypdf
+langchain_huggingface
+sentence-transformers
+langchain-pinecone
+
