@@ -85,3 +85,10 @@ logs/
 # Temporary files
 *.tmp
 *.temp
+3.26.7
+7-Advance RAG/chroma_db/chroma.sqlite3
+7-Advance RAG/chroma_db/0bb5cb09-92f2-4501-8ef5-da7cf545cd7a/header.bin
+7-Advance RAG/chroma_db/0bb5cb09-92f2-4501-8ef5-da7cf545cd7a/link_lists.bin
+7-Advance RAG/chroma_db/0bb5cb09-92f2-4501-8ef5-da7cf545cd7a/length.bin
+.gitignore
+7-Advance RAG/chroma_db/0bb5cb09-92f2-4501-8ef5-da7cf545cd7a/data_level0.bin
