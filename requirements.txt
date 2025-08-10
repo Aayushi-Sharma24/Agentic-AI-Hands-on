@@ -23,3 +23,8 @@ flashrank
 faiss-cpu
 langchain_chroma
 lark
+llama_index
+llama-index-embeddings-huggingface
+llama-index-vector-stores-qdrant
+llama-index-llms-gemini
+google-generativeai
